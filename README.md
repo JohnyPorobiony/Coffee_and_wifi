@@ -1,6 +1,6 @@
 # Coffee_and_wifi
 
-Python / Flask / Boostrap / WTForms
+Python / Flask / Bootstrap / WTForms
 
 Webapp to get hold of the list of Cafes with Wifi/Power/Coffee ratings and URLs.
 
